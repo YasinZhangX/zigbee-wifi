@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Android\\workspace\\zigbee_wifi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play.png",
+        "source": "D:\\Android\\workspace\\zigbee_wifi\\app\\src\\main\\res\\drawable-ldpi\\play.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\zigbee_wifi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\stop.png",
+        "source": "D:\\Android\\workspace\\zigbee_wifi\\app\\src\\main\\res\\drawable-ldpi\\stop.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\zigbee_wifi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\go1.png",
+        "source": "D:\\Android\\workspace\\zigbee_wifi\\app\\src\\main\\res\\drawable-ldpi\\go1.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\zigbee_wifi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\start.png",
+        "source": "D:\\Android\\workspace\\zigbee_wifi\\app\\src\\main\\res\\drawable-ldpi\\start.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\zigbee_wifi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ledoff.png",
+        "source": "D:\\Android\\workspace\\zigbee_wifi\\app\\src\\main\\res\\drawable-ldpi\\ledoff.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\zigbee_wifi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
+        "source": "D:\\Android\\workspace\\zigbee_wifi\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\zigbee_wifi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\bg3.png",
+        "source": "D:\\Android\\workspace\\zigbee_wifi\\app\\src\\main\\res\\drawable-ldpi\\bg3.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\zigbee_wifi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ledon.png",
+        "source": "D:\\Android\\workspace\\zigbee_wifi\\app\\src\\main\\res\\drawable-ldpi\\ledon.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\zigbee_wifi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_action_search.png",
+        "source": "D:\\Android\\workspace\\zigbee_wifi\\app\\src\\main\\res\\drawable-ldpi\\ic_action_search.png"
+    }
+]
